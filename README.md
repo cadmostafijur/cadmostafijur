@@ -11,7 +11,7 @@ comme<h1 align="center">Hi 👋, I'm Md Mostafijur Rahman</h1>
 
 - 👨‍💻 All of my projects are available at [https://cadmostafijur.github.io/mostafijur.github.io/](https://cadmostafijur.github.io/mostafijur.github.io/)
 
-- 📝 I try to regularly write articles on [https://mostafijurbracu.blogspot.com/](https://mostafijurbracu.blogspot.com/)
+- 📝 I try to regularly write articles on(Not Active Now) [https://mostafijurbracu.blogspot.com/](https://mostafijurbracu.blogspot.com/)
 
 - 💬 Ask me about **react, node js, python ....**
 
