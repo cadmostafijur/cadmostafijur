@@ -4,8 +4,7 @@ comme<h1 align="center">Hi 👋, I'm Md Mostafijur Rahman</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cadmostafijur&label=Profile%20views&color=0e75b6&style=flat" alt="cadmostafijur" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cadmostafijur" alt="cadmostafijur" /></a> </p>
-<p><img src="https://tryhackme-badges.s3.amazonaws.com/mostafijur.bd786.png" alt="TryHackMe"></p>
-<script src="https://tryhackme.com/badge/1957492"></script>
+<p><img src="https://tryhackme.com/badge/1957492" alt="TryHackMe"></p>
 
 - 🔭 I’m currently working on [Blood Donation Applicaation](wait for it)
 
