@@ -1,4 +1,4 @@
-comme<h1 align="center">Hi 👋, I'm Md Mostafijur Rahman</h1>
+<h1 align="center">Hi 👋, I'm Md Mostafijur Rahman</h1>
 <h3 align="center">I am a student of CSE department at Brac university. Interested in competitive programming , AI(Artificial development),Web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cadmostafijur&label=Profile%20views&color=0e75b6&style=flat" alt="cadmostafijur" /> </p>
