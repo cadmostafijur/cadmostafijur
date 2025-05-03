@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Md Mostafijur Rahman</h1>
-<h3 align="center">I am a student of CSE department at Brac university. Interested in competitive programming , AI(Artificial development),Web development.</h3>
+<h3 align="center">I am a student of CSE department at Brac university. Interested in Blockchain technology, AI(Artificial development),Web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cadmostafijur&label=Profile%20views&color=0e75b6&style=flat" alt="cadmostafijur" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cadmostafijur" alt="cadmostafijur" /></a> </p>
 <p><img src="https://tryhackme.com/badge/1957492" alt="TryHackMe"></p>
 
-- 🔭 I’m currently working on [Blood Donation Applicaation](wait for it)
+- 🔭 I’m currently working on [Blockchain technology Missing person Management System ](wait for it)
 
-- 🌱 I’m currently learning **quantum computing and My SQL**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://cadmostafijur.github.io/mostafijur.github.io/](https://cadmostafijur.github.io/mostafijur.github.io/)
-
-- 📝 I try to regularly write articles on(Not Active Now) [https://mostafijurbracu.blogspot.com/](https://mostafijurbracu.blogspot.com/)
 
 - 💬 Ask me about **react, node js, python ....**
 
