@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://cadmostafijur.github.io/mostafijur.github.io/](https://cadmostafijur.github.io/mostafijur.github.io/)
+- 👨‍💻 All of my projects are available at [https://mostafijurrahmanuiuxdev.vercel.app/](https://mostafijurrahmanuiuxdev.vercel.app/)
 
 - 💬 Ask me about **react, node js, python ....**
 
