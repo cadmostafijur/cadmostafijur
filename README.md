@@ -14,8 +14,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Blockchain Technology – Missing Person Management System** *(Coming soon...)*
-- 🌱 Learning **Blockchain Development & Advanced AI Concepts**
+- 🌱 Learning **UI UX Designs < Full Stack Web Development < **
 - 💬 Ask me about **React, Node.js, Python, Blockchain, and AI**
 - 📫 Reach me at **mostafijurrahmanuiuxdev@gmail.com**
 - 📄 View my Resume: [**Click Here**](https://drive.google.com/file/d/1cI4yKQ96SEDJP_XW4LISdft-Td9IMlHh/view?usp=sharing)
@@ -29,9 +28,8 @@
   <!-- LetterM8 -->
   <div class="card bg-base-100 w-96 shadow-sm">
     <figure>
-      <img
-        src="letterm8.png"
-        alt="LetterM8 Screenshot" />
+  <img width="206" height="57" alt="image" src="https://github.com/user-attachments/assets/e3cf67c6-09d9-42a5-910c-3c24195a8c15" />
+
     </figure>
     <div class="card-body">
       <h2 class="card-title">LetterM8</h2>
@@ -42,12 +40,11 @@
     </div>
   </div>
 
+
   <!-- Missing Persons Management System -->
   <div class="card bg-base-100 w-96 shadow-sm">
     <figure>
-      <img
-        src="missing-persons.png"
-        alt="Missing Persons Management System Screenshot" />
+<img width="60" height="52" alt="image" src="https://github.com/user-attachments/assets/f9176155-9fc0-43f8-b001-efbc49c8e6fa" />
     </figure>
     <div class="card-body">
       <h2 class="card-title">Missing Persons Management System</h2>
@@ -101,5 +98,3 @@
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
-](https://github.com/SifatullahFahim?tab=overview&from=2025-07-01&to=2025-07-31)
