@@ -26,26 +26,22 @@
 
 ---
 
-### 🚀 Latest Projects
+### 🚀 Latest Project
 
-<p align="center">
-  <!-- Project 1 -->
-  <a href="https://letterm8.me/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/✉️_LetterM8-AI%20Email%20Generator-blueviolet?style=for-the-badge" alt="LetterM8 Badge" />
-  </a>
-  <br>
-  <b>LetterM8 – AI Job Application Email Generator</b>
-  <br>
-  <sub>
-    Transform job descriptions into compelling, professional emails in seconds.  
-    Choose your tone, paste the description, and let AI craft the perfect application email.  
-    <br>
-    <b>Tech Stack:</b> Next.js, TailwindCSS, OpenAI API  
-    <a href="https://letterm8.me/">🔗 Live Demo</a> |
-    <a href="#">📂 Repository</a>
-  </sub>
-</p>
+<div align="center">
 
+  <!-- LetterM8 Card -->
+  <div style="border: 2px solid #eaeaea; border-radius: 10px; padding: 20px; width: 320px; text-align: center; background-color: #f9f9f9;">
+    <h3>✉️ LetterM8</h3>
+    <p><b>AI Job Application Email Generator</b></p>
+    <p>Transform job descriptions into compelling, professional emails in seconds.  
+    Choose your tone, paste the description, and let AI craft the perfect application email.</p>
+    <p><b>Tech Stack:</b> Next.js, TailwindCSS, OpenAI API</p>
+    <a href="https://letterm8.me/" target="_blank">🔗 Live Demo</a> |
+    <a href="#" target="_blank">📂 Repository</a>
+  </div>
+
+</div>
 
 ---
 
