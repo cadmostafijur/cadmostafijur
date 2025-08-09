@@ -10,9 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://tryhackme.com/badge/1957492" alt="TryHackMe Badge" />
-</p>
 
 ---
 
@@ -26,22 +23,34 @@
 
 ---
 
-### 🚀 Latest Project
+## 🚀 Featured Projects
 
 <div align="center">
 
-  <!-- LetterM8 Card -->
-  <div style="border: 2px solid #eaeaea; border-radius: 10px; padding: 20px; width: 320px; text-align: center; background-color: #f9f9f9;">
-    <h3>✉️ LetterM8</h3>
+  <!-- LetterM8 -->
+  <div style="display: inline-block; width: 45%; margin: 10px; vertical-align: top; background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; color: #ffffff;">
+    <img src="letterm8.png" alt="LetterM8 Screenshot" style="width: 100%; border-radius: 6px;"/>
+    <h3>LetterM8</h3>
     <p><b>AI Job Application Email Generator</b></p>
-    <p>Transform job descriptions into compelling, professional emails in seconds.  
-    Choose your tone, paste the description, and let AI craft the perfect application email.</p>
-    <p><b>Tech Stack:</b> Next.js, TailwindCSS, OpenAI API</p>
-    <a href="https://letterm8.me/" target="_blank">🔗 Live Demo</a> |
-    <a href="#" target="_blank">📂 Repository</a>
+    <p>Transform job descriptions into compelling, professional emails in seconds. Choose your tone, paste the description, and let AI craft the perfect application email.</p>
+    <p><b>Jul 2025 – Aug 2025</b></p>
+    <p><b>Tech Stack:</b> Next.js · TailwindCSS · OpenAI API</p>
+    <a href="https://letterm8.me/" target="_blank">🌐 Live</a>
+  </div>
+
+  <!-- Missing Persons Management System -->
+  <div style="display: inline-block; width: 45%; margin: 10px; vertical-align: top; background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; color: #ffffff;">
+    <img src="missing-persons.png" alt="Missing Persons Management Screenshot" style="width: 100%; border-radius: 6px;"/>
+    <h3>Missing Persons Management System</h3>
+    <p><b>Blockchain-Powered Missing Person Tracking</b></p>
+    <p>A secure platform to report, search, and manage missing person cases using blockchain technology for data integrity.</p>
+    <p><b>Apr 2025 – Present</b></p>
+    <p><b>Tech Stack:</b> Blockchain · React · Node.js · MongoDB</p>
+    <a href="https://missing-persons-management.vercel.app/" target="_blank">🌐 Live</a>
   </div>
 
 </div>
+
 
 ---
 
