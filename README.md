@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Mostafijur Rahman</h1>
+[<h1 align="center">Hi 👋, I'm Md Mostafijur Rahman</h1>
 <h3 align="center">
 🚀 CSE Student at Brac University | Aspiring Blockchain & AI Engineer | Full-Stack Web Developer
 </h3>
@@ -22,35 +22,43 @@
 - 🌐 My Portfolio: [**mostafijurrahmanuiuxdev.vercel.app**](https://mostafijurrahmanuiuxdev.vercel.app/)
 
 ---
-
 ## 🚀 Featured Projects
 
-<div align="center">
+<div class="flex flex-wrap gap-4">
 
   <!-- LetterM8 -->
-  <div style="display: inline-block; width: 45%; margin: 10px; vertical-align: top; background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; color: #ffffff;">
-    <img src="letterm8.png" alt="LetterM8 Screenshot" style="width: 100%; border-radius: 6px;"/>
-    <h3>LetterM8</h3>
-    <p><b>AI Job Application Email Generator</b></p>
-    <p>Transform job descriptions into compelling, professional emails in seconds. Choose your tone, paste the description, and let AI craft the perfect application email.</p>
-    <p><b>Jul 2025 – Aug 2025</b></p>
-    <p><b>Tech Stack:</b> Next.js · TailwindCSS · OpenAI API</p>
-    <a href="https://letterm8.me/" target="_blank">🌐 Live</a>
+  <div class="card bg-base-100 w-96 shadow-sm">
+    <figure>
+      <img
+        src="letterm8.png"
+        alt="LetterM8 Screenshot" />
+    </figure>
+    <div class="card-body">
+      <h2 class="card-title">LetterM8</h2>
+      <p>Transform job descriptions into compelling, professional emails in seconds. Choose your tone, paste the description, and let AI craft the perfect application email.</p>
+      <div class="card-actions justify-end">
+        <a href="https://letterm8.me/" target="_blank" class="btn btn-primary">🌐 Live</a>
+      </div>
+    </div>
   </div>
 
   <!-- Missing Persons Management System -->
-  <div style="display: inline-block; width: 45%; margin: 10px; vertical-align: top; background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; color: #ffffff;">
-    <img src="missing-persons.png" alt="Missing Persons Management Screenshot" style="width: 100%; border-radius: 6px;"/>
-    <h3>Missing Persons Management System</h3>
-    <p><b>Blockchain-Powered Missing Person Tracking</b></p>
-    <p>A secure platform to report, search, and manage missing person cases using blockchain technology for data integrity.</p>
-    <p><b>Apr 2025 – Present</b></p>
-    <p><b>Tech Stack:</b> Blockchain · React · Node.js · MongoDB</p>
-    <a href="https://missing-persons-management.vercel.app/" target="_blank">🌐 Live</a>
+  <div class="card bg-base-100 w-96 shadow-sm">
+    <figure>
+      <img
+        src="missing-persons.png"
+        alt="Missing Persons Management System Screenshot" />
+    </figure>
+    <div class="card-body">
+      <h2 class="card-title">Missing Persons Management System</h2>
+      <p>A secure platform to report, search, and manage missing person cases using blockchain technology for data integrity.</p>
+      <div class="card-actions justify-end">
+        <a href="https://missing-persons-management.vercel.app/" target="_blank" class="btn btn-primary">🌐 Live</a>
+      </div>
+    </div>
   </div>
 
 </div>
-
 
 ---
 
@@ -94,3 +102,4 @@
 ---
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
+](https://github.com/SifatullahFahim?tab=overview&from=2025-07-01&to=2025-07-31)
