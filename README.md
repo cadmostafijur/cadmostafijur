@@ -1,13 +1,15 @@
-[<h1 align="center">Hi 👋, I'm Md Mostafijur Rahman</h1>
+<h1 align="center">Hi 👋, I'm Md Mostafijur Rahman</h1>
 <h3 align="center">
 🚀 CSE Student at Brac University | Aspiring Blockchain & AI Engineer | Full-Stack Web Developer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cadmostafijur&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cadmostafijur&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=cadmostafijur&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cadmostafijur&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 
