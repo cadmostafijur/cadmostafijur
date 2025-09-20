@@ -45,11 +45,12 @@
 
   <!-- Missing Persons Management System -->
   <div class="card bg-base-100 w-96 shadow-sm">
-    <figure>
-<img width="60" height="52" alt="image" src="https://github.com/user-attachments/assets/f9176155-9fc0-43f8-b001-efbc49c8e6fa" />
-    </figure>
+
     <div class="card-body">
       <h2 class="card-title">Missing Persons Management System</h2>
+          <figure>
+          <img width="60" height="52" alt="image" src="https://github.com/user-attachments/assets/f9176155-9fc0-43f8-b001-efbc49c8e6fa" />
+          </figure>
       <p>A secure platform to report, search, and manage missing person cases using blockchain technology for data integrity.</p>
       <div class="card-actions justify-end">
         <a href="https://missing-persons-management.vercel.app/" target="_blank" class="btn btn-primary">🌐 Live</a>
