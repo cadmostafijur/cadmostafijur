@@ -31,10 +31,10 @@
 
   <!-- LetterM8 -->
   <div class="card bg-base-100 w-96 shadow-sm">
-    <figure><img width="206" height="57" alt="image" src="https://github.com/user-attachments/assets/e3cf67c6-09d9-42a5-910c-3c24195a8c15" />
-    </figure>
     <div class="card-body">
       <h2 class="card-title">LetterM8</h2>
+        <figure><img width="206" height="57" alt="image" src="https://github.com/user-attachments/assets/e3cf67c6-09d9-42a5-910c-3c24195a8c15" />
+    </figure>
       <p>Transform job descriptions into compelling, professional emails in seconds. Choose your tone, paste the description, and let AI craft the perfect application email.</p>
       <div class="card-actions justify-end">
         <a href="https://letterm8.me/" target="_blank" class="btn btn-primary">🌐 Live</a>
@@ -45,7 +45,6 @@
 
   <!-- Missing Persons Management System -->
   <div class="card bg-base-100 w-96 shadow-sm">
-
     <div class="card-body">
       <h2 class="card-title">Missing Persons Management System</h2>
           <figure>
