@@ -1,104 +1,102 @@
-<h1 align="center">👋 Hi, I'm Md. Mostafijur Rahman</h1>
+<h1 align="center">Hi 👋, I'm Md Mostafijur Rahman</h1>
 <h3 align="center">
-🚀 Full Stack Web Developer | AI & Blockchain Enthusiast | CSE Student at BRAC University
+🚀 CSE Student at Brac University | Aspiring Blockchain & AI Engineer | Full-Stack Web Developer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cadmostafijur&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
-  <a href="https://github.com/cadmostafijur?tab=followers"><img src="https://img.shields.io/github/followers/cadmostafijur?label=Followers&style=social" alt="GitHub Followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=cadmostafijur&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cadmostafijur&theme=algolia" alt="GitHub Streak"/>
+</p>
+
+
+
 
 ---
 
 ### 👨‍💻 About Me
-
-- 🎓 CSE Student at **BRAC University**
-- 💡 Passionate about **Full Stack Web Development**, **Blockchain**, and **Artificial Intelligence**
-- 🌱 Currently learning **UI/UX Design** and **Advanced Backend Architecture**
+- 🌱 Learning **UI UX Designs < Full Stack Web Development < **
 - 💬 Ask me about **React, Node.js, Python, Blockchain, and AI**
-- 📫 Reach me at: **mostafijurrahmanuiuxdev@gmail.com**
-- 📄 View my [**Resume**](https://drive.google.com/file/d/1cI4yKQ96SEDJP_XW4LISdft-Td9IMlHh/view?usp=sharing)
-- 🌐 Visit my [**Portfolio**](https://mostafijuruiux.dev)
+- 📫 Reach me at **mostafijurrahmanuiuxdev@gmail.com**
+- 📄 View my Resume: [**Click Here**](https://drive.google.com/file/d/1cI4yKQ96SEDJP_XW4LISdft-Td9IMlHh/view?usp=sharing)
+- 🌐 My Portfolio: [**mostafijuruiux.dev**](https://mostafijuruiux.dev/)
 
 ---
-
 ## 🚀 Featured Projects
 
-<div align="center">
+<div class="flex flex-wrap gap-4">
 
-### 🌟 [LetterM8](https://letterm8.me/)
-Transform job descriptions into professional application emails with AI assistance.
+  <!-- LetterM8 -->
+  <div class="card bg-base-100 w-96 shadow-sm">
+    <div class="card-body">
+      <h2 class="card-title">LetterM8</h2>
+        <figure><img width="206" height="57" alt="image" src="https://github.com/user-attachments/assets/e3cf67c6-09d9-42a5-910c-3c24195a8c15" />
+    </figure>
+      <p>Transform job descriptions into compelling, professional emails in seconds. Choose your tone, paste the description, and let AI craft the perfect application email.</p>
+      <div class="card-actions justify-end">
+        <a href="https://letterm8.me/" target="_blank" class="btn btn-primary">🌐 Live</a>
+      </div>
+    </div>
+  </div>
 
-<img width="400" src="https://github.com/user-attachments/assets/e3cf67c6-09d9-42a5-910c-3c24195a8c15" alt="LetterM8"/>
 
----
-
-### 🌟 [Missing Persons Management System](https://missing-persons-management.vercel.app/)
-A blockchain-secured platform to report, search, and manage missing person cases ensuring data integrity and transparency.
-
-<img width="400" src="https://github.com/user-attachments/assets/f9176155-9fc0-43f8-b001-efbc49c8e6fa" alt="Missing Persons Management System"/>
+  <!-- Missing Persons Management System -->
+  <div class="card bg-base-100 w-96 shadow-sm">
+    <div class="card-body">
+      <h2 class="card-title">Missing Persons Management System</h2>
+          <figure>
+          <img width="60" height="52" alt="image" src="https://github.com/user-attachments/assets/f9176155-9fc0-43f8-b001-efbc49c8e6fa" />
+          </figure>
+      <p>A secure platform to report, search, and manage missing person cases using blockchain technology for data integrity.</p>
+      <div class="card-actions justify-end">
+        <a href="https://missing-persons-management.vercel.app/" target="_blank" class="btn btn-primary">🌐 Live</a>
+      </div>
+    </div>
+  </div>
 
 </div>
 
 ---
 
-## 🧠 Tech Stack Expertise
-
-| Category | Technologies |
-|-----------|---------------|
-| **Frontend** | React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap |
-| **Backend** | Node.js, Express.js, Python, Java |
-| **Database** | MySQL, MongoDB |
-| **DevOps / Tools** | Docker, Git, GitHub, Linux, VS Code |
-| **AI / Blockchain** | OpenAI API, Solidity, Smart Contracts, Web3.js |
-| **Design** | Figma, Canva, UI/UX Wireframing |
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cadmostafijur&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/cadmostafijur" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/cadmostafijur" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/cadmostafijur" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/mostafijur_bd786" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/mostafijur721" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/cadmostafijur" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cadmostafijur&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cadmostafijur&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cadmostafijur&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,java,javascript,html,css,tailwind,bootstrap,mysql,mongodb,git,github,docker,linux" />
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,python,java,javascript,html,css,tailwind,bootstrap,mysql,mongodb,git,github,docker,linux,vscode,figma" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cadmostafijur&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cadmostafijur&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/cadmostafijur" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://fb.com/cadmostafijur" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-  <a href="https://instagram.com/cadmostafijur" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://www.hackerrank.com/mostafijur_bd786" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="40"/></a>
-  <a href="https://codeforces.com/profile/mostafijur721" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" height="40"/></a>
-  <a href="https://www.leetcode.com/cadmostafijur" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
-</p>
-
----
-
-### ✨ Motto
-<p align="center"><b>"Code. Create. Innovate. Build the Future."</b></p>
 
 ---
 
