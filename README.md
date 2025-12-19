@@ -58,6 +58,8 @@
   </div>
 
 </div>
+
+---
 ### 🔹 create-fullstack-kit (CLI Tool)
 
 A powerful **open-source CLI** to instantly scaffold a **production-ready full-stack monorepo** with:
@@ -70,9 +72,6 @@ A powerful **open-source CLI** to instantly scaffold a **production-ready full-s
 
 🔗 NPM: https://www.npmjs.com/package/create-fullstack-kit  
 🔗 GitHub: https://github.com/cadmostafijur/create-fullstack-kit-CLI
-
-
----
 
 ### 🌐 Connect With Me
 <p align="left">
