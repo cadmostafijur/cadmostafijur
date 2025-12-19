@@ -58,6 +58,19 @@
   </div>
 
 </div>
+### 🔹 create-fullstack-kit (CLI Tool)
+
+A powerful **open-source CLI** to instantly scaffold a **production-ready full-stack monorepo** with:
+
+- Next.js + ShadCN UI (Frontend)
+- Backend (NestJS / Express)
+- Auth.js (NextAuth) with OAuth support
+- Prisma ORM (Optional Database)
+- PNPM + Turbo Monorepo
+
+🔗 NPM: https://www.npmjs.com/package/create-fullstack-kit  
+🔗 GitHub: https://github.com/cadmostafijur/create-fullstack-kit-CLI
+
 
 ---
 
