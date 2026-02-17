@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Mostafijur Rahman</h1>
 <h3 align="center">
-🚀 CSE Student at Brac University | Aspiring Blockchain & AI Engineer | Full-Stack Web Developer
+ CSE Student at Brac University | Aspiring Blockchain & AI Engineer | Full-Stack Web Developer
 </h3>
 
 <p align="center">
@@ -17,11 +17,11 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 Learning **UI UX Designs < Full Stack Web Development < **
-- 💬 Ask me about **React, Node.js, Python, Blockchain, and AI**
-- 📫 Reach me at **mostafijurrahmanuiuxdev@gmail.com**
-- 📄 View my Resume: [**Click Here**](https://drive.google.com/file/d/1cI4yKQ96SEDJP_XW4LISdft-Td9IMlHh/view?usp=sharing)
+### About Me
+-  Learning **UI UX Designs < Full Stack Web Development < **
+-  Ask me about **React, Node.js, Python, Blockchain, and AI**
+-  Reach me at **mostafijurrahmanuiuxdev@gmail.com**
+-  View my Resume: [**Click Here**](https://drive.google.com/file/d/1cI4yKQ96SEDJP_XW4LISdft-Td9IMlHh/view?usp=sharing)
 - 🌐 My Portfolio: [**mostafijuruiux.dev**](https://mostafijuruiux.dev/)
 
 ---
